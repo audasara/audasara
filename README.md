@@ -38,7 +38,7 @@ I'm a third-year Computer Science student at Kasetsart University, Sriracha Camp
 
 `Python` `ResNet50` `EfficientNetV2` `ConvNeXt` `DeiT` `Swin Transformer`
 
-**Chinese Air Writing – Sequence Modeling Using Temporal Convolutional Networks (TCN) (https://github.com/audasara/chinese-Air-Brush)**
+**[Chinese Air Writing – Sequence Modeling Using Temporal Convolutional Networks](https://github.com/audasara/chinese-Air-Brush)**
 
 - Compared five TCN architectures for sequence-to-sequence modeling and Z-axis coordinate prediction.
 - Worked with variable-length sequences using padding and masking techniques.
