@@ -1,5 +1,4 @@
-# Hi, I'm Asara 👋
-
+# Hi, I'm Asara Tharajarawat 
 ### Computer Science Student
 
 I'm a third-year Computer Science student at Kasetsart University, Sriracha Campus. I have experience developing software applications and working on academic projects involving mobile development, object detection, OCR, and deep learning.
