@@ -1,4 +1,4 @@
-# Hi, I'm Asara Tharajarawat 
+# Hi, I'm Asara Tharajarawat
 ### Computer Science Student
 
 I'm a third-year Computer Science student at Kasetsart University, Sriracha Campus. I have experience developing software applications and working on academic projects involving mobile development, object detection, OCR, and deep learning.
@@ -7,16 +7,16 @@ I'm a third-year Computer Science student at Kasetsart University, Sriracha Camp
 
 ### About Me
 
-- 🎓 Computer Science student at Kasetsart University, Sriracha Campus
-- 💻 Experience in mobile application and backend development
-- 🔬 Worked on machine learning and deep learning projects
-- 🛠️ Hands-on experience with AI models, OCR, and API integration
+- Computer Science student at Kasetsart University, Sriracha Campus
+- Experience in mobile application and backend development
+- Worked on machine learning and deep learning projects
+- Hands-on experience with AI models, OCR, and API integration
 
 ### Tech Stack
 
 **Languages:** Python · SQL · C · Kotlin
 
-**Tools & Technologies:** FastAPI · Git · GitHub · YOLO · OpenAI API · Android Studio
+**Tools & Technologies:** FastAPI · Git · GitHub · YOLO · OpenAI API · Android Studio · Firebase
 
 **Areas:** Mobile Application Development · Backend Development · Machine Learning · Deep Learning · OCR
 
@@ -44,6 +44,14 @@ I'm a third-year Computer Science student at Kasetsart University, Sriracha Camp
 - Worked with variable-length sequences using padding and masking techniques.
 
 `Python` `TCN` `Sequence Modeling` `Deep Learning`
+
+**[Money Track – Personal Expense Tracker](https://github.com/audasara/moneyTrack)**
+
+- Developed an Android application for managing and tracking personal income and expenses.
+- Implemented user login, transaction management, financial history, and a dashboard for visualizing spending summaries.
+- Integrated Firebase for data storage and applied the Repository Pattern for data management.
+
+`Kotlin` `Android Studio` `Firebase` `Repository Pattern`
 
 ---
 
